@@ -2,7 +2,7 @@ A simple meme generator, created as part of a Udacity Class.
 
 There are two ways of running the program:
     - Command Line: run "python3 meme.py" from the command line, with the optional arguments --body (a string quote body), --author (a string quote author), and --path (an image path).
-    - Flask App: run "python3 mem.py" from the command line.
+    - Flask App: run "python3 meme.py" from the command line.
 
 This module requires the following dependencies:
 certifi==2022.12.7
